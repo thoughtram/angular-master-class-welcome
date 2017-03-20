@@ -27,8 +27,5 @@ npm run rest-api
 
 Then view the application at http://localhost:4200
 
+![amcw_demo_live](https://cloud.githubusercontent.com/assets/210413/24112493/b284fee4-0d67-11e7-9b97-87845ca3b753.png)
 
-![amcw_demo_slide](https://cloud.githubusercontent.com/assets/210413/24111916/f9b2ae44-0d65-11e7-84a5-c88245843306.jpg)
-
-
-![amcw_demo_live](https://cloud.githubusercontent.com/assets/210413/24111918/fb5ebc74-0d65-11e7-9b5f-4a04a7bb1fda.jpg)
