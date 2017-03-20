@@ -25,7 +25,7 @@ In another terminal, run the REST-API server for the **Contacts** dataservice ca
 npm run rest-api
 ``` 
 
-Then view the application at http://localhost:4200:
+Then view the application at http://localhost:4200
 
 
 ![amcw_demo_slide](https://cloud.githubusercontent.com/assets/210413/24111916/f9b2ae44-0d65-11e7-84a5-c88245843306.jpg)
