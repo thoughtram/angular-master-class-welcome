@@ -15,11 +15,15 @@ live-server
 When you arrive to the Demo slide (~page 8), you can show a live demonstration of the final (1st day), jump start solution. In your local [AMC Solutions](https://github.com/thoughtram/angular2-master-class-solutions) repo, check out the **jump-start-step-13** and run the application:
 
 ```console
-git co jump-start-step-13;
+git co jump-start-step-13
 ng serve
 ```
 
-> Don't forget to run the REST-API server with `npm run rest-api` in another terminal window!
+In another terminal, run the REST-API server for the **Contacts** dataservice calls
+
+```console
+npm run rest-api
+``` 
 
 Then view the application at http://localhost:4200:
 
