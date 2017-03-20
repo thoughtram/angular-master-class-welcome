@@ -7,4 +7,4 @@ Unlike the [AMC Classroom](http://classroom.thoughtram.io/#/class/angular2-maste
 live-server
 ```
 
-![screen shot 2017-03-20 at 11 39 01 am](https://cloud.githubusercontent.com/assets/210413/24110608/df9a6780-0d61-11e7-99e5-18e2dcc0925b.png)
+![amc_welcome](https://cloud.githubusercontent.com/assets/210413/24110727/379013cc-0d62-11e7-9122-48987bc01f12.jpg)
